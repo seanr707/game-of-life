@@ -1,0 +1,27 @@
+{
+  "name": "game-of-life",
+  "version": "0.0.1",
+  "description": "Conways Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanr707/game-of-life.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "react",
+    "redux"
+  ],
+  "author": "seanr707",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/seanr707/game-of-life/issues"
+  },
+  "homepage": "https://github.com/seanr707/game-of-life#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
